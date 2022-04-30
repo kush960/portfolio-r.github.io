@@ -1,0 +1,11 @@
+project.js
+line 279
+<button className="more-button" onClick={() => setShowMore(!showMore)}> 
+        Show {showMore ? 'Less' : 'More'}
+      </button> 
+
+
+line 209
+<Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
+        view the archive
+      </Link>
